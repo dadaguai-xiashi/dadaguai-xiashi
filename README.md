@@ -12,12 +12,16 @@
 
 
 <!-- profile logo 个人资料徽标 -->
+我的技能
   <div>
-  <a href="https://github.com/dadaguai-xiashi/PARTNER-MATCH"><img src="https://img.shields.io/badge/github-项目地址-8A2BE2"/></a>&emsp;  
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-
+  
+  <img src="https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff" />
   </div>
-
+- 🏡 业务项目： <a href="https://github.com/dadaguai-xiashi/PARTNER-MATCH" target="_blank">伙伴匹配系统</a> 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dadaguai-xiashi/dadaguai-xiashi/output/github-contribution-grid-snake-dark.svg">
@@ -34,8 +38,8 @@
 <tr><td>
 
 ### 🤺 About Me
-
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+
 
 <p>&emsp;&emsp;嗨，我是大大怪下士。热爱编程、读书。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
@@ -57,6 +61,10 @@
 
 
 </table>
+<table>
+  
+<tr><td>
+
 
 ## 📊 GitHub 数据统计
 
